@@ -1,0 +1,3 @@
+GitHub repository for Django Girls assignment:
+
+https://github.com/Murillo1219/M04-Tutorial.git
